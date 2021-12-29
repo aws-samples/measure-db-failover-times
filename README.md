@@ -12,9 +12,9 @@ and PostgreSQL).
 
 You can find the scripts and instructions here
 
--   Script for Amazon RDS for MySQL (MYSQL/Readme.md)
+-   [Script for Amazon RDS for MySQL] (MYSQL/Readme.md)
 
--   Script for Amazon RDS for PostgreSQL (PG/Readme.md)
+-   [Script for Amazon RDS for PostgreSQL] (PG/Readme.md)
 
 
 ## Security
