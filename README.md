@@ -14,7 +14,7 @@ You can find the scripts and instructions here
 
 -   [Scripts for Amazon RDS for MySQL](MYSQL)
 
--   [Scripts for Amazon RDS for PostgreSQL](PG/Readme.md)
+-   [Scripts for Amazon RDS for PostgreSQL](PG)
 
 
 ## Security
