@@ -1,3 +1,5 @@
+## Measure DB failover times
+
 These scripts helps you to measure and log failover or reboot times for an
 Amazon RDS MySQL or Amazon RDS PostgreSQL instance. These are Windows batch
 scripts and you will need a Windows machine to run them. These batch scripts use
@@ -13,3 +15,13 @@ You can find the scripts and instructions here
 -   Script for Amazon RDS for MySQL
 
 -   Script for Amazon RDS for PostgreSQL
+
+
+## Security
+
+See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+
+## License
+
+This library is licensed under the MIT-0 License. See the LICENSE file.
+
