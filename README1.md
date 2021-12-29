@@ -1,4 +1,4 @@
-## Measuring DB failover times
+## My Project
 
 These scripts helps you to measure and log failover or reboot times for an
 Amazon RDS MySQL or Amazon RDS PostgreSQL instance. These are Windows batch

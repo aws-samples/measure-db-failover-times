@@ -1,0 +1,2 @@
+[client]
+password = <replace-with-the-database-password>

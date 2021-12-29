@@ -1,0 +1,1 @@
+select clock_timestamp(),' - ' x, VERSION(), ' - ' x, inet_server_addr();	

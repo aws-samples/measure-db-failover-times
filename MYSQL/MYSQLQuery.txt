@@ -1,0 +1,2 @@
+select now(),' - ' x, VERSION(), ' - ' x, @@hostname;	
+
