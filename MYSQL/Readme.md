@@ -1,3 +1,5 @@
+## Measuring DB failover time for Amazon RDS for MySQL
+
 These scripts help you to measure and log failover or reboot times for an Amazon
 RDS MySQL or Amazon Aurora MySQL instance. These are Windows batch scripts and
 you will need a Windows machine to run them. This batch script uses the ‘mysql’
